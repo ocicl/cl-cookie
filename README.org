@@ -1,0 +1,9 @@
+* cl-cookie
+
+HTTP cookie manager
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/fukamachi/cl-cookie.git |
+| commit  | e6babbf                                        |
+| systems | cl-cookie                                      |
+|---------+------------------------------------------------|
