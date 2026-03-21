@@ -4,6 +4,6 @@ HTTP cookie manager
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/fukamachi/cl-cookie.git |
-| commit  | 6bcb74a                                        |
+| commit  | 8a2fb71                                        |
 | systems | cl-cookie                                      |
 |---------+------------------------------------------------|
